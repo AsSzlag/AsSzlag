@@ -18,7 +18,8 @@
   Advanced React hooks<br>
   Rest Api<br>
   </p>
-#### Contact
+  
+### Contact
 <p>
   Feel free to cantact me at: a.s.szlag@gmail.com
   </p>
