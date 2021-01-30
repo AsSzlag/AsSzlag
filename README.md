@@ -1,6 +1,7 @@
  ![Header](./banner_github.png)
 # Hello there I am Adam 👋
-<p>I am a front-end developer and chess♘ aficionado. Currently I'm living in Poznań, Poland</p> 
+<p>I am a front-end developer and chess♘ aficionado. Currently I'm living in Poznań, Poland<br>
+I'm a big fan of React, and animating SVGs in CSS. I have 3 years of experience in making commercial sites with WordPress and JS.</p> 
 
    [![stats](https://github-readme-stats.vercel.app/api?username=AsSzlag&title_color=1116F8)](https://github.com/AsSzlag)
 ### Technologies and tools :wrench:
