@@ -14,12 +14,17 @@
 ### Learning
 <p>
   In progress:<br>
-  Tailwind<br>
-  Advanced React hooks<br>
-  Rest Api<br>
+  Tailwind 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" alt="Tailwind" width="16"/> <br>
+  Advanced React hooks 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React hooks" width="16"/> <br>
+  Rest Api 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" alt="Tailwind" width="16"/> <br>
+  Redux 
+   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redux.svg" alt="Redux" width="16"/> <br>
   </p>
   
 ### Contact
 <p>
   Feel free to cantact me at: a.s.szlag@gmail.com
-  </p>
+  </p> 
