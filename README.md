@@ -1,4 +1,4 @@
-<!--Header here -->
+ ![Header](./banner_github.png)
 # Hello there I am Adam 👋
 <p>I am a front-end developer and chess♘ aficionado. Currently I'm living in Poznań, Poland</p>
 
