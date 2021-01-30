@@ -26,5 +26,5 @@
   
 ### Contact :mailbox:
 <p>
-  Feel free to cantact me at: a.s.szlag@gmail.com
+  Feel free to contact me at: a.s.szlag@gmail.com
   </p> 
