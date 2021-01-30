@@ -2,7 +2,7 @@
 # Hello there I am Adam 👋
 <p>I am a front-end developer and chess♘ aficionado. Currently I'm living in Poznań, Poland</p> 
 
-   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsSzlag&title_color=1116F8)]
+   [![stats](https://github-readme-stats.vercel.app/api?username=AsSzlag&title_color=1116F8)](https://github.com/AsSzlag)
 ### Technologies and tools :wrench:
 ![win](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=1116F8)
 ![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1116F8)
