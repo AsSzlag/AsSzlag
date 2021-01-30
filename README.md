@@ -20,6 +20,7 @@ JS+ React as framework</br>
 REST API</br>
 Wordpress</br>
 RWD</br>
+SVG animations and Keyframes</br>
 basic node.js</br>
 basic Vue</br>
 #### Soft skills:</br>
@@ -34,7 +35,7 @@ Git</br>
 Jira</br>
 Figma</br>
 npm</br>
-### Beside Front-end related skills I've done some OOP coding in C/C++ and since I work 1 year as database databse developer i've obtained basic skills in SQL(MS SQL, PostgreSQL), linux systems and XML export.
+#### Beside Front-end related skills I've done some OOP coding in C/C++ and since I work 1 year as database databse developer i've obtained basic skills in SQL(MS SQL, PostgreSQL), linux systems and XML export.
 ### Learning :blue_book:
 <p>
   In progress:<br>
