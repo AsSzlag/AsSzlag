@@ -2,7 +2,7 @@
 # Hello there I am Adam 👋
 <p>I am a front-end developer and chess♘ aficionado. Currently I'm living in Poznań, Poland</p>
 
-### Technologies and tools
+### Technologies and tools :wrench:
 ![win](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=1116F8)
 ![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1116F8)
 ![VSC](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=vsc-idea&logoColor=white&color=1116F8)
@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white&color=1116F8)
 ![HTML](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=1116F8)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1116F8)
-### Learning
+### Learning :blue_book:
 <p>
   In progress:<br>
   Tailwind 
@@ -24,7 +24,7 @@
    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redux.svg" alt="Redux" width="16"/> <br>
   </p>
   
-### Contact
+### Contact :mailbox:
 <p>
   Feel free to cantact me at: a.s.szlag@gmail.com
   </p> 
